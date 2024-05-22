@@ -87,7 +87,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a personas que les guste los videojuegos.
 
 
 
@@ -129,7 +129,7 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica:  "Profesor Layton and the lost future: 
 * Imágenes:  
 * Tipografía
 
