@@ -9,15 +9,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : El detective Richard Doyle
 
 **Web:**   https://    (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Araceli Villa López
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : El famoso detective Richard Doyle tiene que resolver un crimen de un ser querido.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Novela / juego / etc.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -25,7 +25,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**     Google Edge... 
 
 **Tamaño proyecto:** XXMB 
 
@@ -37,7 +37,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 - Github:
 - Twitter
-- Instagram
+- Instagram: nqnqq01427
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
