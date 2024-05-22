@@ -37,7 +37,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 - Github:
 - Twitter
-- Instagram: nqnqq01427
+- Instagram: @nanaa01427
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
