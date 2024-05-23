@@ -76,20 +76,20 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Inspiración en la saga de videojuegos "El profesor Layton" y en "Phoenix Wright Ace Attorney".
+  
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque mezcla una aventura point and click con adivinar códigos y preguntas para resolver un crimen, además de tener personajes carismáticos y un ahistoria entretenida. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a personas que les guste los videojuegos.
+- Orientado a personas que les guste los videojuegos y las novelas gráficas. 
 
 
 
@@ -97,8 +97,7 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
+-Galería de imágenes. 
 - Juego. 
 - Video 
 - Instrucciones y ayuda al usuario 
@@ -109,13 +108,13 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Por falta de tiempo el final del juego es muy repentino y acelerado.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Sin duda esta ha sido una experiencia única e increíble, me lo he pasado muy bien, sin embargo ha sido muchísmo trabajo, pero realizado con cariño y gusto. De lo único que me arrepiento es de no haber tenido más tiempo para desarrollar mejor la historia y la resolución de esta.
 
 
 
@@ -131,14 +130,16 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  "Profesor Layton and the lost future: 
-* Imágenes:  
-* Tipografía
+* Musica:  "Profesor Layton y el futuro perdido: Las deducciones del profesor", "Profesor Layton y la Villa Misteriosa: Puzzles", Tomohito Nishiura.
+  "Phoenix Wright Ace Attorney: Testimony Allegro 2001" Phoenix Wright Ace Attorney: Dick Gumshoe" , "Phoenix Wright Ace Attorney Justice For All: Investigation Middle Stage 2002" , "Phoenix Wright Ace Attorney Justice For All: Pressing Pursuit Crossexamine variation" Masakazu Sugimori.
+* Imágenes:  Hechas todas por mi, inspiradas en los escenarios y personajes de "Phoenix Wright Acce Attorney"
+* Tipografía: Arial
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop
+- Illustrator
 
 
 
