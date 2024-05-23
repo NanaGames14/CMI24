@@ -83,7 +83,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque mezcla una aventura point and click con adivinar códigos y preguntas para resolver un crimen, además de tener personajes carismáticos y un ahistoria entretenida. 
+Este  proyecto es interesante porque mezcla una aventura point and click con adivinar códigos y preguntas para resolver un crimen, además de tener personajes carismáticos y una historia entretenida. Es muy importante leer los diálogos del juego. 
 
 
 
