@@ -20,6 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Novela / juego / point and click etc.
 
 **Logotipo** : (https://github.com/NanaGames14/NanaGames14.github.io/blob/main/Logo%20videojuego.png) 
+![Logo videojuego](https://github.com/NanaGames14/NanaGames14.github.io/assets/170507193/43d92585-fbff-4d39-a2fc-83b6d2135865)
 
 
 
@@ -45,6 +46,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+![Storyboard](https://github.com/NanaGames14/NanaGames14.github.io/assets/170507193/8ca82bf0-8aed-4b2e-adf9-a32f858c48fb)
 
 
 
