@@ -31,16 +31,16 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : xx/xx/2024
+**Fecha** : 23/05/2024
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** :
 
-- Github:
+- Github: NanasGames14.github.io
 - Twitter
 - Instagram: @nanaa01427
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+
 
 # 2. Memoria del proyecto 
 
@@ -48,7 +48,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+
 
 
 
