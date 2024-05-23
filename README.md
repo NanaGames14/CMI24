@@ -11,15 +11,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : El detective Richard Doyle
 
-**Web:**   https://    (url github.io)
+**Web:**   https://    (NanaGames14.github.io)
 
 **Autor:**  Araceli Villa López
 
 **Resumen** : El famoso detective Richard Doyle tiene que resolver un crimen de un ser querido.
 
-**Estilo/género:**  Novela / juego / etc.
+**Estilo/género:**  Novela / juego / point and click etc.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : () 
 
 (insertar imágenes a resolucion de 100px alto)
 
