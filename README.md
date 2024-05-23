@@ -98,10 +98,10 @@ Este  proyecto es interesante porque mezcla una aventura point and click con adi
 ### Etapa 2: Desarrollo / actividades realizadas
 
 -Galería de imágenes. 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
+- Juego: Hay varios modos de juego que solo se pueden acceder mediante la historia, que es lineal. Uno de ellos es interactuar con objetos modo point and click, la otra es adivinar un código secreto y la otra es adivinar las preguntas que el protagonista en un momento dado te propone.  
+- Video: Hay un video al interactuar con un objeto en un punto del juego. Está orientado para hacer reír. 
+- Instrucciones y ayuda al usuario: En algunos momentos del juego los personajes te indican exactamente donde interactuar para continuar jugando. 
+- Menús y elementos de navegación (botones): Hechos de manera simplificada para que se entienda a dónde te llevan. 
 - etc.
 
 
@@ -135,8 +135,9 @@ Sin duda esta ha sido una experiencia única e increíble, me lo he pasado muy b
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- Photoshop
-- Illustrator
+- Adobe Photoshop
+- Adob€ Illustrator
+- Audacity
 
 
 
