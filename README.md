@@ -26,9 +26,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px tamaño fijo 
 
-**Probado en:**     Google Edge... 
+**Probado en:**     Google Edge, teléfono móvil...
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 19KB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -37,8 +37,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** :
 
 - Github: NanasGames14.github.io
-- Twitter
 - Instagram: @nanaa01427
+![Richard Doyle](https://github.com/NanaGames14/NanaGames14.github.io/assets/170507193/de83d5d2-cecb-491e-a76e-025208890a16)
 
 
 
@@ -124,9 +124,6 @@ Sin duda esta ha sido una experiencia única e increíble, me lo he pasado muy b
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
