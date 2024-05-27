@@ -55,10 +55,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 ### 2.2. Esquema de navegación 
+![Guia](https://github.com/NanaGames14/NanaGames14.github.io/assets/170507193/c03576ed-c8b6-42cb-aaba-f76690daccd4)
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
